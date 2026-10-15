@@ -1,0 +1,6 @@
+{
+  "name": "Miracle Holidays Wayanad",
+  "description": "Miracle Holidays — Luxury eco-resort and rainforest sanctuary nestled in Wayanad, Kerala with traditional timber villas, glasshouses, and infinity pool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
